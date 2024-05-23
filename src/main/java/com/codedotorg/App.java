@@ -10,7 +10,7 @@ public class App extends Application {
         launch();
     }
 
-    public void start(Stage primaryStage) {
+    public void start(@SuppressWarnings("exports") Stage primaryStage) {
         MovieApp movies = new MovieApp(primaryStage, 500, 500);
         movies.startApp();
     }

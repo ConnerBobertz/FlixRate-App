@@ -1,10 +1,8 @@
 package com.codedotorg.app;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import com.codedotorg.Movie;
 import com.codedotorg.Rating;
 
 import javafx.geometry.Insets;
