@@ -1,7 +1,5 @@
 package com.codedotorg.app;
 
-import java.util.ArrayList;
-
 import com.codedotorg.AppLogic;
 import com.codedotorg.User;
 
